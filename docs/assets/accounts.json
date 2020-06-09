@@ -1,0 +1,50 @@
+[
+  { 
+    "UID": "4860282",
+    "EventTitle": "Yasuo 1v1 Tourney", 
+    "ImageSource": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_10.jpg", 
+    "EventDescription": "Are you the best yasou", 
+    "NumberofParticipants": "464", 
+    "EventEntryCost": "42", 
+    "EventPrizePool": "76", 
+    "EventOrganizer": "Riot", 
+    "EventGame": "League of Legends", 
+    "PasswordProtected": "true", 
+    "EventRequirementsEstablished": "true", 
+    "EventOrganizerRating": "4.2", 
+    "EventOrganizerReviews": "45", 
+    "EventStartDate": "June 8, 2020", 
+    "EventStartTime": "1400", 
+    "TimeZone": "Mountain Standard Time"
+  },
+  {
+    "UID": "3115582",
+    "EventTitle": "Single Elimination Tournament 5v5", 
+    "ImageSource": "https://cdn1.dotesports.com/wp-content/uploads/2018/08/11172129/7072c5ab-9757-4bf9-bc00-bbc7b0c9713e.jpg", 
+    "EventDescription": "Bring your friends and challenge the best", 
+    "NumberofParticipants": "1246", 
+    "EventEntryCost": "42", 
+    "EventPrizePool": "175", 
+    "EventOrganizer": "Inventro", 
+    "EventGame": "League of Legends", 
+    "PasswordProtected": "false", 
+    "EventRequirementsEstablished": "true", 
+    "EventOrganizerRating": "3.1", 
+    "EventOrganizerReviews": "12"
+  },
+  {
+    "UID": "5323434",
+    "EventTitle": "Blitz Crank Top", 
+    "ImageSource": "https://vignette.wikia.nocookie.net/leagueoflegends/images/6/65/Blitzcrank_OriginalCentered.jpg/", 
+    "EventDescription": "It/'s time to Crank It Out!", 
+    "NumberofParticipants": "1236", 
+    "EventEntryCost": "34", 
+    "EventPrizePool": "159", 
+    "EventOrganizer": "Kirkpatrick", 
+    "EventGame": "League of Legends", 
+    "PasswordProtected": "true", 
+    "EventRequirementsEstablished": "false", 
+    "EventOrganizerRating": "5.0", 
+    "EventOrganizerReviews": "4"
+  }
+]
